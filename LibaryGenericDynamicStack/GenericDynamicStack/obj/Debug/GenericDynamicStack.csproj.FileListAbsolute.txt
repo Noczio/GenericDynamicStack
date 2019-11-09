@@ -1,0 +1,6 @@
+C:\Users\HGMI2\Desktop\Libraries\GenericDynamicStack\GenericDynamicStack\bin\Debug\GenericDynamicStack.dll
+C:\Users\HGMI2\Desktop\Libraries\GenericDynamicStack\GenericDynamicStack\bin\Debug\GenericDynamicStack.pdb
+C:\Users\HGMI2\Desktop\Libraries\GenericDynamicStack\GenericDynamicStack\obj\Debug\GenericDynamicStack.csprojAssemblyReference.cache
+C:\Users\HGMI2\Desktop\Libraries\GenericDynamicStack\GenericDynamicStack\obj\Debug\GenericDynamicStack.csproj.CoreCompileInputs.cache
+C:\Users\HGMI2\Desktop\Libraries\GenericDynamicStack\GenericDynamicStack\obj\Debug\GenericDynamicStack.dll
+C:\Users\HGMI2\Desktop\Libraries\GenericDynamicStack\GenericDynamicStack\obj\Debug\GenericDynamicStack.pdb
