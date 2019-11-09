@@ -1,0 +1,2 @@
+# GenericDynamicStack
+ C# generic stack
